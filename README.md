@@ -1,7 +1,7 @@
 # widebandOCE
 # Ultra-wideband optical coherence elastography from acoustic to ultrasonic frequencies
 
-Code to reproduce results in Fig. 2 and 3 in the upcoming publication.
+Code to reproduce results in Fig. 2 and 3 in https://doi.org/10.48550/arXiv.2211.10534
 
 ## Figure 2 (simulation data for signal demodulation):
 Run "Fig2_simulation_signal_demodulation.m"
